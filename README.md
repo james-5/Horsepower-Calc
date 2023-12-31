@@ -20,8 +20,8 @@ Open issues for feature requests or bug reports.
 Get your engines revving with Horsepower Calc and dive into engine performance analysis like never before!
 
 # Build in linux 
-'sudo qmake -o Makefile horse_calc.pro'
+` sudo qmake -o Makefile horse_calc.pro `
 
-'make'
+` make `
 
 
